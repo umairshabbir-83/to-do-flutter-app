@@ -1,3 +1,3 @@
 # To-do App
 
-To-do Flutter App.
+`To-do` Flutter App.
